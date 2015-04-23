@@ -1,10 +1,8 @@
 ---
-fullname: FIF Camp
-abbr: none
+fullname: "FIF Camp"
 time: 
-  2010-02-22
-  2010-02-23
-host: FIF
-url: none
-place: Seoul
+  start: 2010-02-22
+  end: 2010-02-23
+host: "FIF"
+place: "Seoul"
 ---

@@ -1,10 +1,10 @@
 ---
-fullname: The Conference on emerging Networking EXperiments and Technologies
-abbr: CoNEXT
+fullname: "The Conference on emerging Networking EXperiments and Technologies"
+abbr: "CoNEXT"
 time: 
-  2011-12-6
-  2011-12-09
-host: ACM
-url: http://www.sigcomm.org/events/conext-conference
-place: Tokyo
+  start: 2011-12-6
+  end: 2011-12-09
+host: "ACM"
+url: "http://www.sigcomm.org/events/conext-conference"
+place: "Tokyo"
 ---

@@ -1,10 +1,10 @@
 ---
-fullname: 3rd International Conference on Future Internet Technologies
-abbr: CFI08
+fullname: "3rd International Conference on Future Internet Technologies"
+abbr: "CFI08"
 time: 
-  2008-06-18
-  2008-06-20
-host: ACM
-url: http://as.icu.ac.kr/cfi08
-place: Seoul
+  start: 2008-06-18
+  end: 2008-06-20
+host: "ACM"
+url: "http://as.icu.ac.kr/cfi08"
+place: "Seoul"
 ---

@@ -1,10 +1,10 @@
 ---
-fullname: ACM Special Interest Group on Data Communication,2008
-abbr: SIGCOMM,2008
+fullname: "ACM Special Interest Group on Data Communication,2008"
+abbr: "SIGCOMM,2008"
 time: 
-  2008-08-17
-  2008-08-22
-host: ACM
-url: http://conferences.sigcomm.org/sigcomm/2008/
-place: Seattle
+  start: 2008-08-17
+  end: 2008-08-22
+host: "ACM"
+url: "http://conferences.sigcomm.org/sigcomm/2008/"
+place: "Seattle"
 ---

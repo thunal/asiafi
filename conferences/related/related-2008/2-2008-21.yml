@@ -1,10 +1,10 @@
 ---
-fullname: Conference on emerging Networking EXperiments and Technologies
-abbr: CoNEXT
+fullname: "Conference on emerging Networking EXperiments and Technologies"
+abbr: "CoNEXT"
 time: 
-  2008-12-09
-  2008-12-12
-host: ACM
-url: http://www.sigcomm.org/co-next2008/
-place: Madrid
+  start: 2008-12-09
+  end: 2008-12-12
+host: "ACM"
+url: "http://www.sigcomm.org/co-next2008/"
+place: "Madrid"
 ---

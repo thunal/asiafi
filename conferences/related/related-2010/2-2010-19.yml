@@ -1,10 +1,8 @@
 ---
-fullname: 3rd EU-Japan Symposium on the Future Internet
-abbr: none
+fullname: "3rd EU-Japan Symposium on the Future Internet"
 time: 
-  2010-10-20
-  2010-10-22
-host: NICT
-url: none
-place: Finland
+  start: 2010-10-20
+  end: 2010-10-22
+host: "NICT"
+place: "Finland"
 ---

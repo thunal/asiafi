@@ -1,10 +1,9 @@
 ---
-fullname: AsiaFI 2014 Summer School and Meetings
-abbr: none
+fullname: "AsiaFI 2014 Summer School and Meetings"
 time: 
-  2014-06-20
-  2014-06-20
-host: NICT, GIST, Keio University, Kyoto University
-url: http://cfi2014.wide.ad.jp/?page_id=209
-place: Tokyo, Japan
+  start: 2014-06-20
+  end: 2014-06-20
+host: "NICT, GIST, Keio University, Kyoto University"
+url: "http://cfi2014.wide.ad.jp/?page_id=209"
+place: "Tokyo, Japan"
 ---

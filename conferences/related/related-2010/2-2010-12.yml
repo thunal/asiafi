@@ -1,10 +1,9 @@
 ---
-fullname: CFI
-abbr: CFI
+fullname: "CFI"
+abbr: "CFI"
 time: 
-  2010-06-01
-  2010-06-31
-host: CFI
-url: none
-place: Korea
+  start: 2010-06-01
+  end: 2010-06-30
+host: "CFI"
+place: "Korea"
 ---

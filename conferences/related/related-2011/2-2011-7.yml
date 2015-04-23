@@ -1,10 +1,9 @@
 ---
-fullname: First CCNx Community Meeting
-abbr: none
+fullname: "First CCNx Community Meeting"
 time: 
-  2011-09-09
-  2011-09-09
-host: CCNX
-url: http://www.ccnx.org/CCNxCon2011
-place: Palo Alto
+  start: 2011-09-09
+  end: 2011-09-09
+host: "CCNX"
+url: "http://www.ccnx.org/CCNxCon2011"
+place: "Palo Alto"
 ---

@@ -1,10 +1,8 @@
 ---
-fullname: AsiaFI School and Workshops
-abbr: none
+fullname: "AsiaFI School and Workshops"
 time: 
-  2010-08-23
-  2010-08-27
-host: AsiaFI, FIAW
-url: none
-place: Keio University, Hiyoshi Campus, Japan
+  start: 2010-08-23
+  end: 2010-08-27
+host: "AsiaFI, FIAW"
+place: "Keio University, Hiyoshi Campus, Japan"
 ---

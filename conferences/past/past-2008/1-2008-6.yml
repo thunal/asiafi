@@ -1,10 +1,9 @@
 ---
-fullname: First Asia Future Internet (AsiaFI) School on Architecture and Building Blocks
-abbr: none
+fullname: "First Asia Future Internet (AsiaFI) School on Architecture and Building Blocks"
 time: 
-  2008-08-25
-  2008-08-29
-host: AsiaFI, FIF, OSIA
-url: http://www.asiafi.net/meeting/2008-summer/school.htm
-place: International Center, Cheju National University, Jeju, Korea
+  start: 2008-08-25
+  end: 2008-08-29
+host: "AsiaFI, FIF, OSIA"
+url: "http://www.asiafi.net/meeting/2008-summer/school.htm"
+place: "International Center, Cheju National University, Jeju, Korea"
 ---

@@ -1,10 +1,9 @@
 ---
-fullname: AsiaFI Preparation Meetings I
-abbr: none
+fullname: "AsiaFI Preparation Meetings I"
 time: 
-  2007-07-08
-  2007-07-10
-host: AsiaFI
-url: http://www.asiafi.net/meeting/seoul.htm
-place: Seoul, Korea
+  start: 2007-07-08
+  end: 2007-07-10
+host: "AsiaFI"
+url: "http://www.asiafi.net/meeting/seoul.htm"
+place: "Seoul, Korea"
 ---

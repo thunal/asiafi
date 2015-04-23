@@ -1,10 +1,10 @@
 ---
-fullname: Asia Workshop on Future Internet Technologies
-abbr: AWFIT2011
+fullname: "Asia Workshop on Future Internet Technologies"
+abbr: "AWFIT2011"
 time: 
-  2011-11-12
-  2011-11-12
-host: AsiaFI, FIF
-url: http://www.interlab.ait.ac.th/aintec2011/asiafiws.php
-place: Bangkok, Thailand
+  start: 2011-11-12
+  end: 2011-11-12
+host: "AsiaFI, FIF"
+url: "http://www.interlab.ait.ac.th/aintec2011/asiafiws.php"
+place: "Bangkok, Thailand"
 ---

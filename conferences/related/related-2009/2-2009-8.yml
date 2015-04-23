@@ -1,10 +1,10 @@
 ---
-fullname: Future Internet Assembly
-abbr: FIA
+fullname: "Future Internet Assembly"
+abbr: "FIA"
 time: 
-  2009-11-23
-  2009-11-24
-host: EURESCOM
-url: http://www.future-internet.eu/
-place: Stockholm, Sweden
+  start: 2009-11-23
+  end: 2009-11-24
+host: "EURESCOM"
+url: "http://www.future-internet.eu/"
+place: "Stockholm, Sweden"
 ---

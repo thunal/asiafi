@@ -4,7 +4,7 @@ abbr: "SIGCOMM 2014"
 time:
   start: 2014-08-17
   end: 2014-08-22
-host: ACM
-place: Chicago, U.S.A
-url: http://conferences.sigcomm.org/sigcomm/2014/
+host: "ACM"
+place: "Chicago, U.S.A"
+url: "http://conferences.sigcomm.org/sigcomm/2014/"
 ---

@@ -1,10 +1,10 @@
 ---
-fullname: INFOCOM2012
-abbr: INFOCOM2012
+fullname: "INFOCOM2012"
+abbr: "INFOCOM2012"
 time: 
-  2012-03-25
-  2012-03-30
-host: IEEE
-url: http://infocom2015.ieee-infocom.org/
-place: Orlando
+  start: 2012-03-25
+  end: 2012-03-30
+host: "IEEE"
+url: "http://infocom2015.ieee-infocom.org/"
+place: "Orlando"
 ---

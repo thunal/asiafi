@@ -1,10 +1,9 @@
 ---
-fullname: 4th EU Conference on the seventh Framework Programme
-abbr: none
+fullname: "4th EU Conference on the seventh Framework Programme"
 time: 
-  2010-04-134
-  2010-04-14
-host: R2S
-url: http://www.future-internet.eu/events/eventview/article/iv-conference-on-the-eu-fp7-in-spain.html
-place: Valencia, Spain
+  start: 2010-04-13
+  end: 2010-04-14
+host: "R2S"
+url: "http://www.future-internet.eu/events/eventview/article/iv-conference-on-the-eu-fp7-in-spain.html"
+place: "Valencia, Spain"
 ---

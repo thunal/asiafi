@@ -1,10 +1,10 @@
 ---
-fullname: ICCCN2012-Track on Network Architectures and Clean-Slate Designs
-abbr: NACSD
+fullname: "ICCCN2012-Track on Network Architectures and Clean-Slate Designs"
+abbr: "NACSD"
 time: 
-  2012-07-30
-  2012-08-02
-host: ICCCN
-url: http://www.icccn.org/icccn12/tracks/NACSD.html
+  start: 2012-07-30
+  end: 2012-08-02
+host: "ICCCN"
+url: "http://www.icccn.org/icccn12/tracks/NACSD.html"
 place : Munich, Germany
 ---

@@ -1,10 +1,9 @@
 ---
-fullname: Global Environment for Network Innovations
-abbr: GENI
+fullname: "Global Environment for Network Innovations"
+abbr: "GENI"
 time: 
-  2010-07-20
-  2010-07-22
-host: GENI
-url: none
-place: UC San Diego in San Diego, California
+  start: 2010-07-20
+  end: 2010-07-22
+host: "GENI"
+place: "UC San Diego in San Diego, California"
 ---

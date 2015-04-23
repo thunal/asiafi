@@ -1,10 +1,9 @@
 ---
-fullname: Global Environment for Network Innovations
-abbr: GENI
+fullname: "Global Environment for Network Innovations"
+abbr: "GENI"
 time: 
-  2009-11-16
-  2009-11-18
-host: GENI
-url: none
-place: Salt Lake City
+  start: 2009-11-16
+  end: 2009-11-18
+host: "GENI"
+place: "Salt Lake City"
 ---

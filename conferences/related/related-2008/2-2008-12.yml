@@ -1,10 +1,9 @@
 ---
-fullname: EuroNF(EuroNGI, EuroFGI) Joint Ph.D Courses(Wireless Networking)
-abbr: none
+fullname: "EuroNF(EuroNGI, EuroFGI) Joint Ph.D Courses(Wireless Networking)"
 time: 
-  2008-05-19
-  2008-05-23
-host: Euro-NGI/FGI
-url: http://eurongi.enst.fr/p_en_Events_Events2008_PhDcourses_386.html
-place: Italy
+  start: 2008-05-19
+  end: 2008-05-23
+host: "Euro-NGI/FGI"
+url: "http://eurongi.enst.fr/p_en_Events_Events2008_PhDcourses_386.html"
+place: "Italy"
 ---

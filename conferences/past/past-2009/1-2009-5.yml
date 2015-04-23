@@ -1,10 +1,9 @@
 ---
-fullname: The AsiaFI Meetings, Seoul 2009
-abbr: none
+fullname: "The AsiaFI Meetings, Seoul 2009"
 time: 
-  2009-06-18
-  2009-06-18
-host: AsiaFI
-url: http://www.asiafi.net/meeting/2009/CFI/AsiaFIMeetings_Seoul2009.htm
-place: Kyouk Munhwa Haegwon(Co-Located to CFI'09), Seoul & NamGang B Hall in B1 of Annex(Byulgwan)
+  start: 2009-06-18
+  end: 2009-06-18
+host: "AsiaFI"
+url: "http://www.asiafi.net/meeting/2009/CFI/AsiaFIMeetings_Seoul2009.htm"
+place: "Kyouk Munhwa Haegwon(Co-Located to CFI'09), Seoul & NamGang B Hall in B1 of Annex(Byulgwan)"
 ---

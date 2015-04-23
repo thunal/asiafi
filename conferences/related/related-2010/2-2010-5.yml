@@ -1,10 +1,8 @@
 ---
-fullname: Seventh GENI Engineering Conference
-abbr: none
+fullname: "Seventh GENI Engineering Conference"
 time: 
-  2010-03-16
-  2010-03-18
-host: GENI
-url: none
-place: Durham, NC, USA
+  start: 2010-03-16
+  end: 2010-03-18
+host: "GENI"
+place: "Durham, NC, USA"
 ---

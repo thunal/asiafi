@@ -1,10 +1,9 @@
 ---
-fullname: Internet Research Task Force
-abbr: IRTF
+fullname: "Internet Research Task Force"
+abbr: "IRTF"
 time: 
-  2008-07-27
-  2008-08-01
-host: IRTF
-url: none
-place: Dublin
+  start: 2008-07-27
+  end: 2008-08-01
+host: "IRTF"
+place: "Dublin"
 ---

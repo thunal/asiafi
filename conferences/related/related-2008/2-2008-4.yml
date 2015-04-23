@@ -1,10 +1,10 @@
 ---
-fullname: Future Internet Winter Camp 2008
-abbr: FIWC,2008
+fullname: "Future Internet Winter Camp 2008"
+abbr: "FIWC,2008"
 time: 
-  2008-02-18
-  2008-02-20
-host: Seoul National University
-url: http://fif.kr/fiwc2008/
-place: Seoul
+  start: 2008-02-18
+  end: 2008-02-20
+host: "Seoul National University"
+url: "http://fif.kr/fiwc2008/"
+place: "Seoul"
 ---

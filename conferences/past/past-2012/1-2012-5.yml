@@ -1,10 +1,10 @@
 ---
-fullname: SDN'12: Workshop on Software Defined Networks
-abbr: SDN'12
+fullname: "SDN'12: Workshop on Software Defined Networks"
+abbr: "SDN'12"
 time: 
-  2012-06-15
-  2012-06-15
-host: IEEE
-url: http://sdn12.mytestbed.net/
-place: Ottawa, Canada
+  start: 2012-06-15
+  end: 2012-06-15
+host: "IEEE"
+url: "http://sdn12.mytestbed.net/"
+place: "Ottawa, Canada"
 ---

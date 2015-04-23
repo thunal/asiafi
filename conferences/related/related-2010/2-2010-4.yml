@@ -1,10 +1,9 @@
 ---
-fullname: Global Environment for Network Innovations
-abbr: GENI
+fullname: "Global Environment for Network Innovations"
+abbr: "GENI"
 time: 
-  2010-03-16
-  2010-03-18
-host: GENI
-url: none
-place: Chapel Hill
+  start: 2010-03-16
+  end: 2010-03-18
+host: "GENI"
+place: "Chapel Hill"
 ---

@@ -1,10 +1,9 @@
 ---
-fullname: EuroNF(EuroNGI, EuroFGI) Summer School(wireless networks)
-abbr: Euro-NGI/NFI
+fullname: "EuroNF(EuroNGI, EuroFGI) Summer School(wireless networks)"
+abbr: "Euro-NGI/NFI"
 time: 
-  2008-09-15
-  2008-09-19
-host: Euro-NGI/NFI
-url: none
-place: Poland
+  start: 2008-09-15
+  end: 2008-09-19
+host: "Euro-NGI/NFI"
+place: "Poland"
 ---

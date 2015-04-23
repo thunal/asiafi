@@ -1,10 +1,8 @@
 ---
-fullname: GENI Engineering Confence
-abbr: GEC2
+fullname: "GENI Engineering Confence"
+abbr: "GEC2"
 time: 
-  2008-07-21
-  2008-07-23
-host: GENI
-url: none
-place: none
+  start: 2008-07-21
+  end: 2008-07-23
+host: "GENI"
 ---

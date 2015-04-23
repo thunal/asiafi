@@ -1,10 +1,9 @@
 ---
-fullname: Asia Pacific Advanced Network
-abbr: APAN
+fullname: "Asia Pacific Advanced Network"
+abbr: "APAN"
 time: 
-  2008-01-22
-  2008-01-22
-host: APAN
-url: none
-place: Honolulu
+  start: 2008-01-22
+  end: 2008-01-22
+host: "APAN"
+place: "Honolulu"
 ---

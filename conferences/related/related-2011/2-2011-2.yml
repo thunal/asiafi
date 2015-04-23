@@ -1,10 +1,10 @@
 ---
-fullname: GENI Engineering Conference
-abbr: GENI
+fullname: "GENI Engineering Conference"
+abbr: "GENI"
 time: 
-  2011-07-26
-  2011-07-28
-host: GENI
-url: http://www.geni.net/
-place: Denver
+  start: 2011-07-26
+  end: 2011-07-28
+host: "GENI"
+url: "http://www.geni.net/"
+place: "Denver"
 ---

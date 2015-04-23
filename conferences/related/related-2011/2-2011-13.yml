@@ -1,10 +1,9 @@
 ---
-fullname: GENI Engineering Conference
-abbr: none
+fullname: "GENI Engineering Conference"
 time: 
-  2011-11-15
-  2011-11-17
-host: GENI
-url: http://www.geni.net/
-place: Kansas City
+  start: 2011-11-15
+  end: 2011-11-17
+host: "GENI"
+url: "http://www.geni.net/"
+place: "Kansas City"
 ---

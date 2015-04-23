@@ -1,10 +1,9 @@
 ---
-fullname: EuroNF(EuroNGI, EuroFGI) Joint Ph.D Courses(Overlay Networks)
-abbr: none
+fullname: "EuroNF(EuroNGI, EuroFGI) Joint Ph.D Courses(Overlay Networks)"
 time: 
-  2008-02-01
-  2008-02-01
-host: Euro-NGI/FGI
-url: http://eurongi.enst.fr/p_en_Events_Events2008_PhDcourses_386.html
-place: Sweden
+  start: 2008-02-01
+  end: 2008-02-01
+host: "Euro-NGI/FGI"
+url: "http://eurongi.enst.fr/p_en_Events_Events2008_PhDcourses_386.html"
+place: "Sweden"
 ---

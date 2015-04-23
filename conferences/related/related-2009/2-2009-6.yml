@@ -1,10 +1,7 @@
 ---
-fullname: Hot Net
-abbr: none
+fullname: "Hot Net"
 time: 
-  2009-10-22
-  2009-10-23
-host: none
-url: none
-place: New York, USA
+  start: 2009-10-22
+  end: 2009-10-23
+place: "New York, USA"
 ---

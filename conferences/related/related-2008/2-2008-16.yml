@@ -1,10 +1,9 @@
 ---
-fullname: Future Internet Camp
-abbr: FIC
+fullname: "Future Internet Camp"
+abbr: "FIC"
 time: 
-  2008-08-25
-  2008-08-27
-host: FIC
-url: none
-place: Seoul
+  start: 2008-08-25
+  end: 2008-08-27
+host: "FIC"
+place: "Seoul"
 ---

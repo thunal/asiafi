@@ -1,10 +1,9 @@
 ---
-fullname: AsiaFI Preparation Meetings II
-abbr: none
+fullname: "AsiaFI Preparation Meetings II"
 time: 
-  2007-08-27
-  2007-08-28
-host: AsiaFI
-url: http://www.asiafi.net/meeting/xian-schedule.htm
-place: Sheraton hotel, Xian, China
+  start: 2007-08-27
+  end: 2007-08-28
+host: "AsiaFI"
+url: "http://www.asiafi.net/meeting/xian-schedule.htm"
+place: "Sheraton hotel, Xian, China"
 ---

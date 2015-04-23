@@ -1,10 +1,9 @@
 ---
-fullname: The AsiaFI Workshop on Fundamental Issues of Future Internet
-abbr: none
+fullname: "The AsiaFI Workshop on Fundamental Issues of Future Internet"
 time: 
-  2008-10-26
-  2008-10-26
-host: AsiaFI
-url: http://www.asiafi.net/meeting/2008archworkshop/main.htm
-place: HuangHai Hotel, Qingdao , China
+  start: 2008-10-26
+  end: 2008-10-26
+host: "AsiaFI"
+url: "http://www.asiafi.net/meeting/2008archworkshop/main.htm"
+place: "HuangHai Hotel, Qingdao , China"
 ---

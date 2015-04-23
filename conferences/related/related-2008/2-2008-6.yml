@@ -1,10 +1,10 @@
 ---
-fullname: EuroNF(EuroNGI, EuroFGI) Workshop
-abbr: Euro-NGI/FGI
+fullname: "EuroNF(EuroNGI, EuroFGI) Workshop"
+abbr: "Euro-NGI/FGI"
 time: 
-  2008-02-27
-  2008-02-29
-host: Euro-NGI/FGI
-url: http://eurongi.enst.fr/p_en_Events_Events2008_InternalEv_384.html
-place: Italy
+  start: 2008-02-27
+  end: 2008-02-29
+host: "Euro-NGI/FGI"
+url: "http://eurongi.enst.fr/p_en_Events_Events2008_InternalEv_384.html"
+place: "Italy"
 ---

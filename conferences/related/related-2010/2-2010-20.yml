@@ -1,10 +1,9 @@
 ---
-fullname: Internet Engineering Task Force/Internet Research Task Force
-abbr: IETF/IRTF
+fullname: "Internet Engineering Task Force/Internet Research Task Force"
+abbr: "IETF/IRTF"
 time: 
-  2010-11-07
-  2010-11-12
-host: IRTF/IETF
-url: none
-place: Beijing,China
+  start: 2010-11-07
+  end: 2010-11-12
+host: "IRTF/IETF"
+place: "Beijing,China"
 ---

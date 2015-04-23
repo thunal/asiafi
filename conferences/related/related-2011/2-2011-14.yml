@@ -1,10 +1,9 @@
 ---
-fullname: Global Future Internet Summit
-abbr: GFI
+fullname: "Global Future Internet Summit"
+abbr: "GFI"
 time: 
-  2011-11-29
-  2011-12-02
-host: GFI
-url: none
-place: Seoul
+  start: 2011-11-29
+  end: 2011-12-02
+host: "GFI"
+place: "Seoul"
 ---

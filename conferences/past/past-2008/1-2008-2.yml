@@ -1,10 +1,9 @@
 ---
-fullname: AsiaFI School on Mobile & Wireless Networks
-abbr: none
+fullname: "AsiaFI School on Mobile & Wireless Networks"
 time: 
-  2008-02-18
-  2008-02-21
-host: AsiaFI
-url: http://www.asiafi.net/meeting/2008/school.htm
-place: Engineering House, Seoul National University, Korea
+  start: 2008-02-18
+  end: 2008-02-21
+host: "AsiaFI"
+url: "http://www.asiafi.net/meeting/2008/school.htm"
+place: "Engineering House, Seoul National University, Korea"
 ---

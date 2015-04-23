@@ -1,10 +1,9 @@
 ---
-fullname: AsiaFI Meetings in Honolulu during APAN
-abbr: none
+fullname: "AsiaFI Meetings in Honolulu during APAN"
 time: 
-  2008-01-22
-  2008-01-25
-host: AsiaFI
-url: www.apan.net
-place: Hawaii Imin International Conference Center(Tagore room, Jefferson Hall) East West Center Lincoln Hall
+  start: 2008-01-22
+  end: 2008-01-25
+host: "AsiaFI"
+url: "www.apan.net"
+place: "Hawaii Imin International Conference Center(Tagore room, Jefferson Hall) East West Center Lincoln Hall"
 ---

@@ -1,10 +1,10 @@
 ---
-fullname: SIGCOMM
-abbr: SIGCOMM
+fullname: "SIGCOMM"
+abbr: "SIGCOMM"
 time: 
-  2009-08-17
-  2009-08-21
-host: ACM
-url: http://www.sigcomm.org/sigcomm/2009
-place: Barcelona
+  start: 2009-08-17
+  end: 2009-08-21
+host: "ACM"
+url: "http://www.sigcomm.org/sigcomm/2009"
+place: "Barcelona"
 ---

@@ -1,10 +1,10 @@
 ---
-fullname: 4th EIFFEL think tank meeting
-abbr: EIFFEL
+fullname: "4th EIFFEL think tank meeting"
+abbr: "EIFFEL"
 time: 
-  2010-03-09
-  2010-03-10
-host: EIFFEL
-url: http://www.fp7-eiffel.eu/events/4th-eiffel-think-tank-meeting.html
-place: Brussels, Belgium
+  start: 2010-03-09
+  end: 2010-03-10
+host: "EIFFEL"
+url: "http://www.fp7-eiffel.eu/events/4th-eiffel-think-tank-meeting.html"
+place: "Brussels, Belgium"
 ---

@@ -1,10 +1,9 @@
 ---
-fullname: Workshop on Future Internet Security
-abbr: none
+fullname: "Workshop on Future Internet Security"
 time: 
-  2011-08-31
-  2011-08-31
-host: SNU & NIMS
-url: http://fis2011.math.snu.ac.kr/
-place: SNU, NIMS, Korea
+  start: 2011-08-31
+  end: 2011-08-31
+host: "SNU & NIMS"
+url: "http://fis2011.math.snu.ac.kr/"
+place: "SNU, NIMS, Korea"
 ---

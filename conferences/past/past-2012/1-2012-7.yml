@@ -1,10 +1,9 @@
 ---
-fullname: AsiaFI School, Workshop, and Meetings
-abbr: none
+fullname: "AsiaFI School, Workshop, and Meetings"
 time: 
-  2012-08-19
-  2012-08-23
-host: AsiaFI, IEICE Technical Committee on Network Virtualization
-url: http://asiafi.net/meeting/2012/asiafi2012.html
-place: Kyoto University (Yoshida Campus), Kyoto, Japan
+  start: 2012-08-19
+  end: 2012-08-23
+host: "AsiaFI, IEICE Technical Committee on Network Virtualization"
+url: "http://asiafi.net/meeting/2012/asiafi2012.html"
+place: "Kyoto University (Yoshida Campus), Kyoto, Japan"
 ---

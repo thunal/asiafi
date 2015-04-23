@@ -1,10 +1,10 @@
 ---
-fullname: EuroNF(EuroNGI, EuroFGI) Workshop on Wireless and Mobility in FGI
-abbr: Euro-NGI/FGI
+fullname: "EuroNF(EuroNGI, EuroFGI) Workshop on Wireless and Mobility in FGI"
+abbr: "Euro-NGI/FGI"
 time: 
-  2008-01-16
-  2008-01-18
-host: CompNet, Euro-NGI
-url: http://recerca.ac.upc.edu/eurongi08/
-place: Spain
+  start: 2008-01-16
+  end: 2008-01-18
+host: "CompNet, Euro-NGI"
+url: "http://recerca.ac.upc.edu/eurongi08/"
+place: "Spain"
 ---

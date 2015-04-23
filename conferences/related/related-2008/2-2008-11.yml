@@ -1,10 +1,9 @@
 ---
-fullname: EuroNF(EuroNGI, EuroFGI) Joint Ph.D Courses(Teletraffic Modeling)
-abbr: none
+fullname: "EuroNF(EuroNGI, EuroFGI) Joint Ph.D Courses(Teletraffic Modeling)"
 time: 
-  2008-03-10
-  2008-03-14
-host: Euro-NGI/FGI
-url: http://eurongi.enst.fr/p_en_Events_Events2008_PhDcourses_386.html
-place: Spain
+  start: 2008-03-10
+  end: 2008-03-14
+host: "Euro-NGI/FGI"
+url: "http://eurongi.enst.fr/p_en_Events_Events2008_PhDcourses_386.html"
+place: "Spain"
 ---

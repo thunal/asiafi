@@ -1,10 +1,9 @@
 ---
-fullname: Conference on emerging Networking EXperiments and Technologies
-abbr: CoNEXT
+fullname: "Conference on emerging Networking EXperiments and Technologies"
+abbr: "CoNEXT"
 time: 
-  2009-12-01
-  2009-12-04
-host: ACM
-url: none
-place: Rome, Italy
+  start: 2009-12-01
+  end: 2009-12-04
+host: "ACM"
+place: "Rome, Italy"
 ---

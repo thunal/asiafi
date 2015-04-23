@@ -1,10 +1,9 @@
 ---
-fullname: Internet Research Task Force/Internet Engineering Task Force
-abbr: IRTF/IETF
+fullname: "Internet Research Task Force/Internet Engineering Task Force"
+abbr: "IRTF/IETF"
 time: 
-  2010-07-25
-  2010-07-30
-host: IRTF/IETF
-url: none
-place: Maastricht, Netherlands
+  start: 2010-07-25
+  end: 2010-07-30
+host: "IRTF/IETF"
+place: "Maastricht, Netherlands"
 ---

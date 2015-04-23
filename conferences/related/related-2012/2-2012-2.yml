@@ -1,10 +1,10 @@
 ---
-fullname: 1st Workshop on Emerging Design Choices in Name-Oriented Networking (NOMEN) (Joint Workshop with INFOCOM2012)
-abbr: NOMEN 2012
+fullname: "1st Workshop on Emerging Design Choices in Name-Oriented Networking (NOMEN) (Joint Workshop with INFOCOM2012)"
+abbr: "NOMEN 2012"
 time: 
-  2012-03-30
-  2012-03-30
-host: IEEE
-url: http://infocom2012.ieee-infocom.org/nomen/Submission.htm
-place: Orlando
+  start: 2012-03-30
+  end: 2012-03-30
+host: "IEEE"
+url: "http://infocom2012.ieee-infocom.org/nomen/Submission.htm"
+place: "Orlando"
 ---

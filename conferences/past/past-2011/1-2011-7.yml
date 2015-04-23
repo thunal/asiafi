@@ -1,10 +1,9 @@
 ---
-fullname: AsiaFI 2011 Summer School
-abbr: none
+fullname: "AsiaFI 2011 Summer School"
 time: 
-  2011-08-08
-  2011-08-12
-host: AsiaFI, FIF
-url: http://www.asiafi.net/meeting/2011/summerschool/
-place: Chungnam National University (CNU), Daedeok Hall
+  start: 2011-08-08
+  end: 2011-08-12
+host: "AsiaFI, FIF"
+url: "http://www.asiafi.net/meeting/2011/summerschool/"
+place: "Chungnam National University (CNU), Daedeok Hall"
 ---
